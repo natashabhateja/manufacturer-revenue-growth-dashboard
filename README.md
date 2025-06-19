@@ -1,6 +1,6 @@
-# 📊 Power BI Sales & Growth Dashboard
+# 📊 Power BI Revenue & Growth Dashboard
 
-An interactive Power BI dashboard designed to visualize and analyze product sales and growth performance across various dimensions.
+An interactive Power BI dashboard designed to visualize and analyze product revenue and growth performance across various dimensions.
 
 ## 🔍 Project Overview
 
@@ -8,7 +8,7 @@ This dashboard was built using a dataset that includes:
 - **Products**
 - **Manufacturers**
 - **Sales**
-- **Growth metrics**
+- **Growth**
 
 It provides insights into revenue and growth trends segmented by:
 - Year
@@ -29,23 +29,28 @@ It provides insights into revenue and growth trends segmented by:
 
 ## 🖼️ Dashboard Previews
 
-> ![Dashboard 1](images/dashboard-1.png)
-> ![Dashboard 2](images/dashboard-1.png)
+> ![Dashboard Preview 1](previews/dashboard-1.png)
+> ![Dashboard Preview 2](previews/dashboard-2.png)
 
 ## 🚀 How to Use
 
-1. Clone the repository  
-2. Open the `.pbix` file in Power BI Desktop  
+1. Clone the repository
+2. Open the `.pbix` file in Power BI Desktop
 3. Interact with the filters and visuals to explore the data
 
 ## 📁 Files Included
 
-- `Sales_Growth_Dashboard.pbix` – Main Power BI file
+- `Revenue_Growth_Dashboard.pbix` – Main Power BI file
+- `previews/` – Folder for dashboard previews
+- `data/` - Folder for data source files
 - `README.md` – Project documentation
-- `images/` – Folder for dashboard screenshots
+- `LICENSE` - License file
+
+## License
+This project is open-source and available under the [MIT License](./LICENSE).
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via GitHub for collaboration or feedback.
+Feel free to connect with me on [LinkedIn](https://ca.linkedin.com/in/natashabhateja) or reach out via [GitHub](https://github.com/natashabhateja) for collaboration or feedback.
 
 ---
